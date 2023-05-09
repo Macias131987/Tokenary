@@ -5,3 +5,11 @@
       location = "self:">
    </FileRef>
 </Workspace>
+struct Secrets {
+       static let infura = "YOUR INFURA PROJECT ID HERE"
+       }
+}
+struct Secrets {
+       static let infura = "YOUR INFURA PROJECT ID HERE"
+       }Para pegar un clip en el cuadro de texto, tócalo.
+}
